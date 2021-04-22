@@ -65,10 +65,3 @@ The TA will only be able to see your results if these two conditions are met
     Total          - 75 Pts.
 
 ---------------------
-<sub><sup>License: Property of Quantitative Imaging Laboratory (QIL), Department of Computer Science, University of Houston.
-This software is property of the QIL, and should not be distributed, reproduced, or shared online, without the permission of the author
-This software is intended to be used by students of the digital image processing course offered at University of Houston.
-The contents are not to be reproduced and shared with anyone with out the permission of the author.
-The contents are not to be posted on any online public hosting websites without the permission of the author.
-The software is cloned and is available to the students for the duration of the course.
-At the end of the semester, the Github organization is reset and hence all the existing repositories are reset/deleted, to accommodate the next batch of students.</sub></sup>
